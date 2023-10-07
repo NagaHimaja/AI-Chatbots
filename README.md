@@ -1,4 +1,7 @@
 # AI-Mental Health Chatbots
+<img src="https://raw.githubusercontent.com/NagaHimaja/AI-Chatbots/a64741322bdf245db0acec265bed72bc51c413ba/ICarlo.jpg" alt="Mental Health Matters" width="300" height="300">
+
+**Mental Health Matters:** Together, we can help you heal.
 
 ## Project Description
 
